@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya Mistry</h1>
-<h3 align="center">I’m a CS grad student at Northeastern University with a love for data analytics, machine learning, and all things tech. I enjoy transforming raw data into powerful insights using tools like Python, Power BI, and Tableau. I’m all about building intuitive data visualizations and crafting compelling stories from numbers. Check out my projects, where I dive into everything from social media sentiment analysis to customer retention strategies. Always learning, always creating! 🚀</h3>
+<h4 align="center">I’m a CS grad student at Northeastern University with a love for data analytics, machine learning, and all things tech. I enjoy transforming raw data into powerful insights using tools like Python, Power BI, and Tableau. I’m all about building intuitive data visualizations and crafting compelling stories from numbers! 🚀</h4>
 
 - 🔭 I’m currently working on **data management and projects for university to apply my skills in real-world scenarios**
 
