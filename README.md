@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=ff6e96&center=true&width=680&lines=%3C+Transforming+Data+into+Impactful+Insights+%3E;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A692D5&center=true&width=680&lines=%3C+Transforming+Data+into+Impactful+Insights+%3E;">
 </p>
 <h1 align="center">Hi 👋, I'm Tanya Mistry</h1>
 <h4 align="center">I’m a CS grad student at Northeastern University with a love for data analytics, machine learning, and all things tech. I enjoy transforming raw data into powerful insights using tools like Python, Power BI, and Tableau. I’m all about building intuitive data visualizations and crafting compelling stories from numbers! 🚀</h4>
