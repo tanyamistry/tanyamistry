@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=5F73F5&center=true&width=680&lines=%3C+Transforming+Data+into+Impactful+Insights+%3E;">
 </p>
-<h1 align="center">Hi 👋, I'm Tanya Mistry</h1>
+<h1 align="center">Hi 👋, I'm Tanya</h1>
 <h4 align="center">I’m a CS grad student at Northeastern University with a love for data analytics, machine learning, and all things tech. I enjoy transforming raw data into powerful insights using tools like Python, Power BI, and Tableau. I’m all about building intuitive data visualizations and crafting compelling stories from numbers! 🚀</h4>
 
 - 🔭 I’m currently working on **data management and projects for university to apply my skills in real-world scenarios**
