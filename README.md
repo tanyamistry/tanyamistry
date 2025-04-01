@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **data analytics and visualization**
 
-- 📫 How to reach me **tanyamistry21@gmail.com**
+- 📫 How to reach me **tanyamistry21@gmail.com / mistry.t@northeastern.edu**
 
 - ⚡ Fun fact **I am creative person who loves painting and sketching while also balancing my studies in computer science**
 
