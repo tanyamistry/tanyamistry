@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **data engineering tools and expanding my skill set in building efficient data pipelines**
 
-- 👯 I am currently looking for **a summer internship to gain practical experience in the data field**
+- 👯 I am currently looking for **a full time job to gain practical experience in the data field**
 
 - 💬 Ask me about **data analytics and visualization**
 
