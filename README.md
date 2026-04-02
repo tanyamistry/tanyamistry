@@ -1,29 +1,112 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5eead4&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1500&color=5EEAD4&center=true&width=700&lines=Hi%2C+I'm+Tanya+Mistry+%F0%9F%91%8B;Data+Engineer+%26+Software+Developer;MS+CS+%40+Northeastern+University;Turning+Data+into+Impactful+Insights" alt="Typing SVG" />
+</div>
+
+<br/>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=5F73F5&center=true&width=680&lines=%3C+Transforming+Data+into+Impactful+Insights+%3E;">
-</p>
-<h1 align="center">Hi 👋, I'm Tanya</h1>
-<h4 align="center">I’m a CS grad student at Northeastern University with a love for data analytics, machine learning, and all things tech. I enjoy transforming raw data into powerful insights using tools like Python, Power BI, and Tableau. I’m all about building intuitive data visualizations and crafting compelling stories from numbers! 🚀</h4>
-
-- 🔭 I’m currently working on **data management and projects for university to apply my skills in real-world scenarios**
-
-- 🌱 I’m currently learning **data engineering tools and expanding my skill set in building efficient data pipelines**
-
-- 👯 I am currently looking for **a full time job to gain practical experience in the data field**
-
-- 💬 Ask me about **data analytics and visualization**
-
-- 📫 How to reach me **tanyamistry21@gmail.com / mistry.t@northeastern.edu**
-
-- ⚡ Fun fact **I am creative person who loves painting and sketching while also balancing my studies in computer science**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tanya-mistry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanya-mistry/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/tanyamistry21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tanyamistry21" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/tanyamistry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanyamistry/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tanya-mistry/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tanyamistry21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tanyamistry-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://leetcode.com/u/tanyamistry/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
+## 👩‍💻 About Me
+
+- 🎓 **MS Computer Science** @ Northeastern University (Dec 2026) — GPA 3.6
+- 💼 **Engineering Co-op** @ Northeastern EDGE — building ETL pipelines & LTI learning tools
+- 🔭 Specializing in **real-time data pipelines**, **ML systems**, and **full-stack apps**
+- 🌱 Currently exploring **data engineering** with Kafka, Spark & cloud-native AWS workflows
+- 🎯 Actively seeking **full-time roles** in Data Engineering & Software Development
+- 🎨 Fun fact — I balance CS with painting & sketching!
+- 📫 Reach me at **tanyamistry21@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Data Engineering**
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**ML & Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Visualization & Web**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanyamistry&show_icons=true&theme=dark&bg_color=0a0e17&title_color=5eead4&icon_color=5eead4&text_color=94a3b8&border_color=1e293b&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyamistry&layout=compact&theme=dark&bg_color=0a0e17&title_color=5eead4&text_color=94a3b8&border_color=1e293b" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanyamistry&theme=dark&background=0a0e17&ring=5eead4&fire=5eead4&currStreakLabel=5eead4&sideLabels=94a3b8&dates=94a3b8&border=1e293b" height="170"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🔴 Real-Time Crypto Pipeline](https://github.com/tanyamistry/streaming-market-pipeline) | Live trade ingestion processing 10K+ events/min via Redpanda + Spark | Kafka · Spark · PostgreSQL · Docker |
+| [📊 Automated Chart Insights](https://github.com/tanyamistry/automated-chart-insights-generator) | Upload a chart, get plain-English AI insights via LLaVA + Ollama | OpenCV · EasyOCR · LLaVA · Streamlit |
+| [🎮 DQN Reinforcement Learning](https://github.com/tanyamistry/FOAI-Project) | Deep Q-Network agent with full RL pipeline & model checkpointing | PyTorch · Python |
+| [🛍️ Retail Sales BI Dashboard](https://github.com/tanyamistry/Retail-Sales---Power-BI) | BlinkIT grocery KPI dashboard with interactive slicers | Power BI · DAX |
+| [🎵 Spotify Data Analysis](https://github.com/tanyamistry/spotify-analysis) | Audio feature patterns & popularity correlation across genres | Python · Pandas · Plotly |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5eead4&height=80&section=footer" width="100%"/>
+</div>
