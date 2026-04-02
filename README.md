@@ -95,18 +95,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🔴 Real-Time Crypto Pipeline](https://github.com/tanyamistry/streaming-market-pipeline) | Live trade ingestion processing 10K+ events/min via Redpanda + Spark | Kafka · Spark · PostgreSQL · Docker |
-| [📊 Automated Chart Insights](https://github.com/tanyamistry/automated-chart-insights-generator) | Upload a chart, get plain-English AI insights via LLaVA + Ollama | OpenCV · EasyOCR · LLaVA · Streamlit |
-| [🎮 DQN Reinforcement Learning](https://github.com/tanyamistry/FOAI-Project) | Deep Q-Network agent with full RL pipeline & model checkpointing | PyTorch · Python |
-| [🛍️ Retail Sales BI Dashboard](https://github.com/tanyamistry/Retail-Sales---Power-BI) | BlinkIT grocery KPI dashboard with interactive slicers | Power BI · DAX |
-| [🎵 Spotify Data Analysis](https://github.com/tanyamistry/spotify-analysis) | Audio feature patterns & popularity correlation across genres | Python · Pandas · Plotly |
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5eead4&height=80&section=footer" width="100%"/>
 </div>
