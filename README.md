@@ -44,7 +44,6 @@
 - 🔭 Specializing in **real-time data pipelines**, **ML systems**, and **full-stack applications**
 - 🌱 Currently deepening expertise in **Kafka**, **Spark**, and **cloud-native AWS** workflows
 - 🎯 Actively seeking **full-time roles** in Data Engineering & Software Development (2026)
-- 🎨 Outside of code — I paint, sketch, and collect way too many unread books
 - 📫 **tanyamistry21@gmail.com** &nbsp;|&nbsp; **mistry.t@northeastern.edu**
 
 ---
