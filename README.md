@@ -18,7 +18,7 @@
 
 <ul>
   <li>🔧 Building pipelines, search tools, and web apps.</li>
-  <li>🌱 Exploring Kafka, Spark, and AWS.</li>
+  <li>🌱 Currently building RAG pipelines and tinkering with LLMs</li>
   <li>💼 Open to Data Engineering & Software Development roles.</li>
 </ul>
 
