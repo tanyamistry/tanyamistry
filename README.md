@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=header&text=Tanya%20Mistry&fontSize=44&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20AI%2FML&descSize=16&descAlignY=84&descColor=5eead4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:0F766E&height=170&section=header&text=Tanya%20Mistry&fontSize=46&fontColor=ffffff&fontAlignY=58&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20AI%2FML&descSize=16&descAlignY=80&descColor=5EEAD4" width="100%"/>
 </div>
 
 <div align="center">
@@ -178,5 +178,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:134E4A,100:0D1117&height=120&section=footer"/>
 </div>
