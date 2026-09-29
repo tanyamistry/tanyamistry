@@ -1,166 +1,100 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0F766E&height=175&section=header&text=Tanya%20Mistry&fontSize=46&fontColor=FFFFFF&fontAlignY=57&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20AI%2FML&descSize=16&descAlignY=80&descColor=FFFFFF" width="100%"/>
-</div>
-
-<div align="center">
-
-   
-</div>
-
-<div align="center">
-
-   
-</div>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tanya-mistry/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="mailto:tanyamistry21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://tanyamistry-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/tanyamistry" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/tanyamistry/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-334155?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E40AF,100:0F766E&height=210&section=header&text=Hey,%20I'm%20Tanya!&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=A%20little%20data.%20A%20little%20code.%20A%20lot%20of%20curiosity.&descSize=16&descAlignY=63" alt="Hey, I'm Tanya! A little data. A little code. A lot of curiosity." width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=67E8F9&center=true&vCenter=true&width=650&height=45&lines=Turning+messy+data+into+useful+things.;Building+pipelines+and+following+curiosity.;One+more+commit+should+do+it..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=0E7490&center=true&vCenter=true&width=650&height=45&lines=Turning+messy+data+into+useful+things.;Building+pipelines+and+following+curiosity.;One+more+commit+should+do+it..." alt="Turning messy data into useful things. Building pipelines and following curiosity. One more commit should do it..." width="90%" />
+  </picture>
+  <br /><br />
+  <a href="https://tanyamistry-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tanya-mistry/"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:tanyamistry21@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello by email" /></a>
+  <a href="https://leetcode.com/u/tanyamistry/"><img src="https://img.shields.io/badge/LeetCode-334155?style=for-the-badge&logo=leetcode&logoColor=FBBF24" alt="LeetCode" /></a>
 </div>
 
 
-👋  About Me
-"I love turning messy data into clean, impactful stories — whether that's through a real-time pipeline, an AI system, or a polished dashboard."
+<h2>👋 A quick introduction</h2>
 
-- 🎓 MS in Computer Science @ Northeastern University, Boston — Dec 2026 · GPA 3.67 / 4.0
-- 🎓 B.Tech in Information Technology (Minor in Data Science) @ University of Mumbai — 2024 · GPA 3.7 / 4.0
-- 💼 Engineering Co-op @ Northeastern (EDGE) — built ETL pipelines, a Canvas LTI 1.3 platform, and FERPA-aligned analytics with Next.js · Express · PostgreSQL
-- 🔭 Specializing in real-time data pipelines, AI / RAG systems, and full-stack applications
-- 🌱 Currently deepening expertise in Kafka, Spark, and cloud-native AWS workflows
-- 🎯 Actively seeking full-time roles in Data Engineering & Software Development (2026)
-- 📫 tanyamistry21@gmail.com  |  mistry.t@northeastern.edu
-🛠️  Tech Stack
+<p>I'm a <b>Computer Science master's student at Northeastern</b> who likes building things with data. My corner of GitHub is a mix of <b>data engineering, full-stack development, and AI experiments</b>.</p>
+
+<ul>
+  <li>🔧 Building pipelines, search tools, and web apps.</li>
+  <li>🌱 Exploring Kafka, Spark, and AWS.</li>
+  <li>💼 Open to Data Engineering & Software Development roles.</li>
+</ul>
+
+<h2>🧪 A peek at my projects</h2>
+
 <table width="100%">
   <tr>
-    <td valign="top" width="33%">
-      <b>⚡ Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-1D4ED8?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-1D4ED8?style=flat-square&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/R-1D4ED8?style=flat-square&logo=r&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3>🧬 TrialSage</h3>
+      <p>A little less searching, a little more finding. Hybrid AI search for clinical trials.</p>
+      <p><code>Python</code> <code>RAG</code> <code>pgvector</code></p>
     </td>
-    <td valign="top" width="33%">
-      <b>🔧 Data Engineering & AI</b><br/><br/>
-      <img src="https://img.shields.io/badge/Apache%20Kafka-0F766E?style=flat-square&logo=apachekafka&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache%20Spark-0F766E?style=flat-square&logo=apachespark&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pgvector-0F766E?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Snowflake-0F766E?style=flat-square&logo=snowflake&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ETL%20Pipelines-0F766E?style=flat-square&logo=apacheairflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG%20%2F%20LLMs-0F766E?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sentence--Transformers-0F766E?style=flat-square&logo=huggingface&logoColor=white"/>
-    </td>
-    <td valign="top" width="33%">
-      <b>☁️ Cloud & DevOps</b><br/><br/>
-      <img src="https://img.shields.io/badge/AWS-0369A1?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/S3%20%C2%B7%20Glue%20%C2%B7%20Lambda%20%C2%B7%20Athena-0369A1?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-0369A1?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-0369A1?style=flat-square&logo=git&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3>📈 Real-Time Crypto Pipeline</h3>
+      <p>Live market data, streaming pipelines, and a dashboard that keeps up.</p>
+      <p><code>Kafka</code> <code>Spark</code> <code>PostgreSQL</code></p>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <b>🔬 ML & Data Science</b><br/><br/>
-      <img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-6D28D9?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-6D28D9?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3>🔍 Chart Insights Generator</h3>
+      <p>Turning “what am I looking at?” into plain-English insights from chart images.</p>
+      <p><code>OpenCV</code> <code>LLaVA</code> <code>Streamlit</code></p>
     </td>
-    <td valign="top">
-      <b>🌐 Web</b><br/><br/>
-      <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-334155?style=flat-square&logo=express&logoColor=white"/>
-    </td>
-    <td valign="top">
-      <b>📊 Visualization</b><br/><br/>
-      <img src="https://img.shields.io/badge/Tableau-B45309?style=flat-square&logo=tableau&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-B45309?style=flat-square&logo=powerbi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-B45309?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Plotly-B45309?style=flat-square&logo=plotly&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3>🎓 Canvas Tools</h3>
+      <p>Content migration and learning analytics built during my Northeastern EDGE co-op.</p>
+      <p><code>Next.js</code> <code>Express</code> <code>ETL</code></p>
     </td>
   </tr>
 </table>
 
-🚀  Featured Projects
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🧬 TrialSage</h4>
-      <p><i>AI-powered hybrid RAG over clinical trials</i></p>
-      <p>
-        Hybrid <b>Retrieval-Augmented Generation</b> system spanning <b>39K+ clinical trials</b> and <b>966K+ eligibility criteria</b>, blending text-to-SQL with semantic vector search. Features an LLM query-routing pipeline with confidence scoring, polarity-aware NLP that corrected <b>1,455</b> mislabeled criteria, and citation guardrails with <b>zero fabricated trial-ID citations</b> across 200+ automated tests.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pgvector-334155?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Llama%203.1-334155?style=flat-square&logo=meta&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4>📈 Real-Time Crypto Data Pipeline</h4>
-      <p><i>Streaming analytics at 10K+ events/min</i></p>
-      <p>
-        End-to-end streaming pipeline ingesting live trades from the <b>Coinbase WebSocket</b>, processing <b>10K+ events/minute</b> through <b>Kafka</b> and <b>Spark Structured Streaming</b>. Computes OHLCV candles with watermarking for accurate time-windowed analytics, surfaced through an auto-refreshing Streamlit dashboard with Plotly candlesticks — fully containerized with Docker Compose.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache%20Kafka-334155?style=flat-square&logo=apachekafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache%20Spark-334155?style=flat-square&logo=apachespark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🔍 Automated Chart Insights Generator</h4>
-      <p><i>Computer vision + vision-LLM for chart understanding</i></p>
-      <p>
-        Computer-vision pipeline that extracts axis labels and data points from chart images using <b>OpenCV</b> and <b>EasyOCR</b>, then feeds structured metadata to a local <b>LLaVA</b> vision model to generate plain-English insights. Ships as a Streamlit UI with four categorized insight sections (summary, findings, trends, anomalies) plus JSON export.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EasyOCR-334155?style=flat-square&logo=tesseract&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-334155?style=flat-square&logo=ollama&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-334155?style=flat-square&logo=streamlit&logoColor=white"/>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🎓 Canvas LMS Migration & Analytics <sub>(Co-op)</sub></h4>
-      <p><i>ETL + LTI 1.3 learning platform</i></p>
-      <p>
-        Built an ETL pipeline migrating Coursera content into Canvas LMS via IMS Common Cartridge packages — cutting <b>~10 hrs/week</b> of manual work. Owned an end-to-end <b>LTI 1.3</b> platform and a FERPA-aligned analytics layer tracking page views and time-on-page, powering a per-student engagement dashboard.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-334155?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center"><a href="https://tanyamistry-portfolio.vercel.app"><b>More about what I'm building ↗</b></a></p>
+
+<h2>🛠️ The toolbox</h2>
+
+<p><b>Code & applications</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+<p><b>Data & cloud</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Kafka-0F766E?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Spark-0F766E?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Snowflake-0F766E?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/AWS-0F766E?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-0F766E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<p><b>AI & insights</b></p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-1D4ED8?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-1D4ED8?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/RAG_%2F_LLMs-1D4ED8?style=flat-square" alt="RAG and LLMs" />
+  <img src="https://img.shields.io/badge/Pandas-1D4ED8?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-1D4ED8?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power_BI-1D4ED8?style=flat-square" alt="Power BI" />
+</p>
+
+
+<details>
+  <summary><b>☕ Take a tiny debugging break</b></summary>
+  <br />
+  <p align="center">
+    <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api?bgColor=%230F172A&borderColor=%23334155&qColor=%2367E8F9&aColor=%23F8FAFC&textColor=%23F8FAFC&codeColor=%2399F6E4" alt="A random programming joke. If the card is taking a break too, click to visit README Jokes." width="500" /></a>
+  </p>
+</details>
+
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1D4ED8,100:0F172A&height=120&section=footer"/>
+  <p><b>Thanks for stopping by. Feel free to say hi 👋</b></p>
+  <img src="https://komarev.com/ghpvc/?username=tanyamistry&style=flat-square&color=0F766E&label=HELLO+THERE" alt="Profile visit counter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E40AF,100:0F172A&height=100&section=footer" alt="" width="100%" />
 </div>
