@@ -177,23 +177,6 @@
 
 ---
 
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanyamistry&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=C9D1D9"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyamistry&hide_border=true&background=0D1117&stroke=5EEAD4&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyamistry&layout=compact&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
 </div>
